@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "google-proto-files": "^5.0.1",
+    "ts-proto": "^2.7.7"
+  }
+}

@@ -7,3 +7,4 @@ tmp/
 
 # Local launch settings for .NET apps
 launchSettings.json
+/node_modules/
